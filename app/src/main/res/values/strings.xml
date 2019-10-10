@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GetData</string>
+
+    <string-array name="spinner">
+        <item>Operators</item>
+        <item>Areas</item>
+        <item>Streets</item>
+
+
+    </string-array>
+</resources>
